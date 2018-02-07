@@ -211,7 +211,7 @@ int main()
 	box.width = 200;
 	cout<<"Box height: "<<box.height<<" width: "<<box.width<<" getVolume "<<box.getVolume()<<endl;
 
-
+	// 有构造函数
 	Test test =  Test(11);
 	return 0;
 }
